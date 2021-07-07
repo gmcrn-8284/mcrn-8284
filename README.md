@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--リポジトリ-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrn-8284&repo=portfolio&theme=radical)](https://github.com/mcrn-8284/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrn-8284&repo=portfolio&theme=default)](https://github.com/mcrn-8284/portfolio)
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mcrn-8284&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/mcrn-8284/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mcrn-8284&hide=contribs&count_private=true&show_icons=true&theme=default)](https://github.com/mcrn-8284/)
 
 
 <!--
