@@ -6,6 +6,9 @@
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mcrn-8284&hide=contribs&count_private=true&show_icons=true&theme=omni)](https://github.com/mcrn-8284/)
 
+<!--トロフィー-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcrn-8284&theme=monokai)](https://github.com/mcrn-8284/)
+
 
 <!--
 **mcrn-8284/mcrn-8284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
